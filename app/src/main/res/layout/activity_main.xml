@@ -15,7 +15,7 @@
         android:layout_marginStart="104dp"
         android:layout_marginLeft="104dp"
         android:rotationY="-25"
-        android:text="Opa! Vamos rachar?"
+        android:text="@string/title"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="#CF4444"
         android:textSize="36sp" />
@@ -31,7 +31,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Qual valor?" />
+            android:text="@string/value" />
 
         <EditText
             android:id="@+id/editTextNumber"
@@ -45,7 +45,7 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Quantas pessoas?" />
+            android:text="@string/people" />
 
         <EditText
             android:id="@+id/editTextNumber2"
@@ -59,7 +59,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Total individual:" />
+            android:text="@string/total" />
 
         <TextView
             android:id="@+id/result"
