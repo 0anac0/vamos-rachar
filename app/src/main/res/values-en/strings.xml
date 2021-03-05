@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lets split!</string>
+    <string name="title" translatable="false">Hey! \n Let\'s split?</string>
+    <string name="value" translatable="false">How much is it?</string>
+    <string name="people" translatable="false">How many people will pay?</string>
+    <string name="total" translatable="false">Individual Total:</string>
+</resources>
